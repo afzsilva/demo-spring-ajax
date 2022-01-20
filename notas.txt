@@ -1,0 +1,61 @@
+https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/
+FALTA MODULO 10
+
+			Rercursos introduzidos no meu aprendisado
+-Jquery
+-Jqueryui
+
+-DataTable com jquery
+https://datatables.net/download/release
+
+-Dta table sem jquery(apenas pesquisei)
+https://github.com/fiduswriter/Simple-DataTables
+
+
+DWR - ajax reverso - mod 10 aula 1
+http://directwebremoting.org/dwr/downloads/index.html
+
+thread para o ajax reverso
+
+
+				PROBLEMAS ENCOTRADOS E SOLUCIONADOS:
+
+P1 - Submissão do formulario não funcionou
+
+SOLUÇÃO: declarar o type do botão no form como submit
+
+P2 - Falha no metodo:getCadastroByUltimaPromocao da classe: DWRAlertaPromocoes sempre retornando null
+SOLUÇÂO: Colocar a anotations @Autowired para atributo PromocaoRepository
+
+				
+				DEVO MELHORAR
+Inserção e Recuperação de valores monetários no banco
+
+
+			OBSERVAÇÔES SOBRE DESENVOLVIMENTO
+
+Formulário de update sempre temos um campo tipo hidden para trabalharmos com id do objeto
+ques esta sendo editado
+<input type="hidden" class="form-control" id="edt_id" name="id" />
+
+					
+					AULAS E OBSERVAÇÕES
+Modulo 9 
+Aula - 17 = introdução ao padrão DTO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
